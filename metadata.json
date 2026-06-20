@@ -1,0 +1,6 @@
+{
+  "name": "Video Editor & Montage Studio",
+  "description": "A high-fidelity web video editing application with web-native multitrack timeline, split/trim operations, Canvas-based real-time frame compositor, and step-by-step desktop architecture guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
